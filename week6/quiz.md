@@ -36,14 +36,13 @@ b. Mainly low frequency components get suppressed.
 c. None of the above.
 d. Mainly high frequency components get suppressed.
 
-Answer: 
-
+Answer:
 
 4. In the degradation model y(i,j) = x(i,j) + n(i,j), the noise component
 n(i,j) consists of uncorrelated entries (i.e., the noise entries at two
 different locations are not correlated with each other). Regarding the
 distribution of the noise power in the frequency domain, which of the following
-statements is true? 
+statements is true?
 
 a. Higher noise power will appear at high frequencies.
 b. Higher noise power will appear at low frequencies.
